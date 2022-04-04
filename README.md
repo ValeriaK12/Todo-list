@@ -6,21 +6,28 @@
 <br/>
 <br/>
 ## Как запустить
+
 <br/>
 <br/>
+
 В дериктории Client
 1. yarn
 2. yarn start
-3. <br/>
-4. <br/>
+
+<br/>
+<br/>
+
 В дериктории Server
 <br/>
 <br/>
+
 1. создать файл .env & перенести в него параметры из env-exampel
 2. npm i
 3. npm run dev || npm start
+
 <br/>
 <br/>
+
 # Технологии
 ### React
 ### React hooks
